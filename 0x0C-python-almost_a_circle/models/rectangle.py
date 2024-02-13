@@ -155,4 +155,8 @@ class Rectangle(Base):
         """Return the print() and str() representation of the Rectangle."""
         return "[Rectangle] ({}) {}/{} - {}/{}".format(
             self.id, self.x, self.y, self.width, self.height
+<<<<<<< HEAD
         )
+=======
+        )
+>>>>>>> 3202cf7aa01f7d4832d887ca14056ab5b830f640

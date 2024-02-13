@@ -48,4 +48,8 @@ class Square(Rectangle):
 
     def to_dictionary(self):
         """return dict of class props"""
+<<<<<<< HEAD
         return {"id": self.id, "size": self.size, "x": self.x, "y": self.y}
+=======
+        return {"id": self.id, "size": self.size, "x": self.x, "y": self.y}
+>>>>>>> 3202cf7aa01f7d4832d887ca14056ab5b830f640

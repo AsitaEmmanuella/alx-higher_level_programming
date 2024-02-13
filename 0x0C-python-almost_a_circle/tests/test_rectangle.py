@@ -804,4 +804,8 @@ class TestRectangle_to_dictionary(unittest.TestCase):
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     unittest.main()
+=======
+    unittest.main()
+>>>>>>> 3202cf7aa01f7d4832d887ca14056ab5b830f640

@@ -186,4 +186,8 @@ class Base:
                 turt.left(90)
             turt.hideturtle()
 
+<<<<<<< HEAD
         turtle.exitonclick()
+=======
+        turtle.exitonclick()
+>>>>>>> 3202cf7aa01f7d4832d887ca14056ab5b830f640

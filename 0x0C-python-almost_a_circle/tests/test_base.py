@@ -103,4 +103,8 @@ class TestBase_instantiation(unittest.TestCase):
 
     def test_two_args(self):
         with self.assertRaises(TypeError):
+<<<<<<< HEAD
             Base(1, 2)
+=======
+            Base(1, 2)
+>>>>>>> 3202cf7aa01f7d4832d887ca14056ab5b830f640
